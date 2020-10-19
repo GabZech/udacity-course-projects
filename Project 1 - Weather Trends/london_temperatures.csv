@@ -1,0 +1,543 @@
+year,city,country,avg_temp
+1743,London,Canada,2.77
+1744,London,Canada,10.19
+1745,London,Canada,-1.12
+1746,London,Canada,
+1747,London,Canada,
+1748,London,Canada,
+1749,London,Canada,
+1750,London,Canada,8.34
+1751,London,Canada,8.84
+1752,London,Canada,1.64
+1753,London,Canada,7.87
+1754,London,Canada,8.15
+1755,London,Canada,5.12
+1756,London,Canada,8.59
+1757,London,Canada,7.29
+1758,London,Canada,6.47
+1759,London,Canada,7.39
+1760,London,Canada,5.97
+1761,London,Canada,8.36
+1762,London,Canada,7.85
+1763,London,Canada,5.54
+1764,London,Canada,8.03
+1765,London,Canada,7.37
+1766,London,Canada,8.38
+1767,London,Canada,6.97
+1768,London,Canada,6.89
+1769,London,Canada,7.54
+1770,London,Canada,7.44
+1771,London,Canada,8.41
+1772,London,Canada,8.05
+1773,London,Canada,8.34
+1774,London,Canada,7.86
+1775,London,Canada,8.73
+1776,London,Canada,7.84
+1777,London,Canada,7.32
+1778,London,Canada,5.54
+1779,London,Canada,8.25
+1780,London,Canada,10.54
+1781,London,Canada,8.07
+1782,London,Canada,7.51
+1783,London,Canada,7.22
+1784,London,Canada,7.00
+1785,London,Canada,6.94
+1786,London,Canada,7.46
+1787,London,Canada,7.47
+1788,London,Canada,8.12
+1789,London,Canada,7.82
+1790,London,Canada,7.75
+1791,London,Canada,7.84
+1792,London,Canada,7.26
+1793,London,Canada,8.13
+1794,London,Canada,8.16
+1795,London,Canada,7.71
+1796,London,Canada,7.56
+1797,London,Canada,7.33
+1798,London,Canada,8.18
+1799,London,Canada,7.76
+1800,London,Canada,7.92
+1801,London,Canada,8.31
+1802,London,Canada,8.56
+1803,London,Canada,8.37
+1804,London,Canada,8.15
+1805,London,Canada,8.62
+1806,London,Canada,7.82
+1807,London,Canada,7.61
+1808,London,Canada,7.79
+1809,London,Canada,7.03
+1810,London,Canada,7.37
+1811,London,Canada,7.49
+1812,London,Canada,6.13
+1813,London,Canada,7.41
+1814,London,Canada,7.24
+1815,London,Canada,6.65
+1816,London,Canada,6.16
+1817,London,Canada,6.25
+1818,London,Canada,6.90
+1819,London,Canada,7.21
+1820,London,Canada,7.22
+1821,London,Canada,6.91
+1822,London,Canada,7.88
+1823,London,Canada,7.11
+1824,London,Canada,7.55
+1825,London,Canada,8.59
+1826,London,Canada,8.37
+1827,London,Canada,8.21
+1828,London,Canada,9.08
+1829,London,Canada,7.63
+1830,London,Canada,8.47
+1831,London,Canada,7.00
+1832,London,Canada,8.07
+1833,London,Canada,8.06
+1834,London,Canada,8.36
+1835,London,Canada,7.43
+1836,London,Canada,6.42
+1837,London,Canada,7.16
+1838,London,Canada,6.71
+1839,London,Canada,7.74
+1840,London,Canada,8.05
+1841,London,Canada,7.46
+1842,London,Canada,7.97
+1843,London,Canada,7.00
+1844,London,Canada,8.13
+1845,London,Canada,8.17
+1846,London,Canada,8.58
+1847,London,Canada,7.28
+1848,London,Canada,7.86
+1849,London,Canada,7.43
+1850,London,Canada,7.65
+1851,London,Canada,7.73
+1852,London,Canada,7.46
+1853,London,Canada,8.05
+1854,London,Canada,8.31
+1855,London,Canada,7.39
+1856,London,Canada,6.35
+1857,London,Canada,6.74
+1858,London,Canada,8.16
+1859,London,Canada,7.80
+1860,London,Canada,7.72
+1861,London,Canada,7.69
+1862,London,Canada,7.48
+1863,London,Canada,7.51
+1864,London,Canada,7.46
+1865,London,Canada,7.89
+1866,London,Canada,6.93
+1867,London,Canada,7.17
+1868,London,Canada,6.68
+1869,London,Canada,6.81
+1870,London,Canada,8.33
+1871,London,Canada,7.56
+1872,London,Canada,6.78
+1873,London,Canada,6.92
+1874,London,Canada,7.84
+1875,London,Canada,5.69
+1876,London,Canada,7.48
+1877,London,Canada,8.48
+1878,London,Canada,8.94
+1879,London,Canada,7.68
+1880,London,Canada,8.45
+1881,London,Canada,8.45
+1882,London,Canada,8.06
+1883,London,Canada,6.50
+1884,London,Canada,7.46
+1885,London,Canada,6.04
+1886,London,Canada,7.25
+1887,London,Canada,7.59
+1888,London,Canada,6.68
+1889,London,Canada,7.97
+1890,London,Canada,8.06
+1891,London,Canada,8.30
+1892,London,Canada,7.43
+1893,London,Canada,7.01
+1894,London,Canada,8.65
+1895,London,Canada,7.08
+1896,London,Canada,7.99
+1897,London,Canada,7.95
+1898,London,Canada,8.66
+1899,London,Canada,8.04
+1900,London,Canada,8.53
+1901,London,Canada,7.67
+1902,London,Canada,7.76
+1903,London,Canada,7.74
+1904,London,Canada,6.22
+1905,London,Canada,7.34
+1906,London,Canada,8.38
+1907,London,Canada,6.92
+1908,London,Canada,8.30
+1909,London,Canada,7.92
+1910,London,Canada,7.73
+1911,London,Canada,8.62
+1912,London,Canada,7.01
+1913,London,Canada,8.59
+1914,London,Canada,7.65
+1915,London,Canada,7.85
+1916,London,Canada,7.75
+1917,London,Canada,5.96
+1918,London,Canada,7.80
+1919,London,Canada,8.66
+1920,London,Canada,7.43
+1921,London,Canada,9.75
+1922,London,Canada,8.62
+1923,London,Canada,7.74
+1924,London,Canada,6.79
+1925,London,Canada,7.70
+1926,London,Canada,6.77
+1927,London,Canada,8.27
+1928,London,Canada,7.97
+1929,London,Canada,7.60
+1930,London,Canada,8.45
+1931,London,Canada,9.59
+1932,London,Canada,8.66
+1933,London,Canada,8.93
+1934,London,Canada,7.90
+1935,London,Canada,7.72
+1936,London,Canada,7.82
+1937,London,Canada,8.15
+1938,London,Canada,8.96
+1939,London,Canada,8.58
+1940,London,Canada,7.16
+1941,London,Canada,9.00
+1942,London,Canada,8.33
+1943,London,Canada,7.51
+1944,London,Canada,8.50
+1945,London,Canada,7.91
+1946,London,Canada,9.07
+1947,London,Canada,8.21
+1948,London,Canada,8.27
+1949,London,Canada,9.52
+1950,London,Canada,7.67
+1951,London,Canada,8.15
+1952,London,Canada,8.94
+1953,London,Canada,9.39
+1954,London,Canada,8.55
+1955,London,Canada,9.06
+1956,London,Canada,8.12
+1957,London,Canada,8.41
+1958,London,Canada,7.60
+1959,London,Canada,8.66
+1960,London,Canada,7.92
+1961,London,Canada,8.41
+1962,London,Canada,7.88
+1963,London,Canada,7.46
+1964,London,Canada,8.50
+1965,London,Canada,7.90
+1966,London,Canada,7.93
+1967,London,Canada,7.84
+1968,London,Canada,8.11
+1969,London,Canada,8.11
+1970,London,Canada,8.29
+1971,London,Canada,8.52
+1972,London,Canada,7.55
+1973,London,Canada,9.30
+1974,London,Canada,8.09
+1975,London,Canada,8.80
+1976,London,Canada,7.51
+1977,London,Canada,8.17
+1978,London,Canada,7.20
+1979,London,Canada,7.75
+1980,London,Canada,7.61
+1981,London,Canada,8.12
+1982,London,Canada,8.13
+1983,London,Canada,8.81
+1984,London,Canada,8.37
+1985,London,Canada,8.37
+1986,London,Canada,8.59
+1987,London,Canada,9.35
+1988,London,Canada,8.58
+1989,London,Canada,7.84
+1990,London,Canada,9.48
+1991,London,Canada,9.72
+1992,London,Canada,8.05
+1993,London,Canada,8.11
+1994,London,Canada,8.11
+1995,London,Canada,8.52
+1996,London,Canada,7.85
+1997,London,Canada,8.09
+1998,London,Canada,10.60
+1999,London,Canada,9.53
+2000,London,Canada,8.67
+2001,London,Canada,9.63
+2002,London,Canada,9.45
+2003,London,Canada,8.12
+2004,London,Canada,8.63
+2005,London,Canada,9.05
+2006,London,Canada,9.83
+2007,London,Canada,9.14
+2008,London,Canada,8.61
+2009,London,Canada,8.38
+2010,London,Canada,9.47
+2011,London,Canada,9.32
+2012,London,Canada,10.51
+2013,London,Canada,10.11
+1743,London,United Kingdom,7.54
+1744,London,United Kingdom,10.34
+1745,London,United Kingdom,4.13
+1746,London,United Kingdom,
+1747,London,United Kingdom,
+1748,London,United Kingdom,
+1749,London,United Kingdom,
+1750,London,United Kingdom,10.25
+1751,London,United Kingdom,9.99
+1752,London,United Kingdom,6.54
+1753,London,United Kingdom,9.42
+1754,London,United Kingdom,9.20
+1755,London,United Kingdom,8.95
+1756,London,United Kingdom,9.42
+1757,London,United Kingdom,9.34
+1758,London,United Kingdom,8.85
+1759,London,United Kingdom,9.80
+1760,London,United Kingdom,9.26
+1761,London,United Kingdom,9.69
+1762,London,United Kingdom,8.99
+1763,London,United Kingdom,8.75
+1764,London,United Kingdom,9.14
+1765,London,United Kingdom,8.95
+1766,London,United Kingdom,9.07
+1767,London,United Kingdom,8.98
+1768,London,United Kingdom,9.12
+1769,London,United Kingdom,9.04
+1770,London,United Kingdom,9.03
+1771,London,United Kingdom,8.78
+1772,London,United Kingdom,9.36
+1773,London,United Kingdom,9.33
+1774,London,United Kingdom,9.10
+1775,London,United Kingdom,10.10
+1776,London,United Kingdom,9.21
+1777,London,United Kingdom,9.25
+1778,London,United Kingdom,9.80
+1779,London,United Kingdom,10.76
+1780,London,United Kingdom,9.67
+1781,London,United Kingdom,10.41
+1782,London,United Kingdom,8.44
+1783,London,United Kingdom,9.97
+1784,London,United Kingdom,8.29
+1785,London,United Kingdom,8.54
+1786,London,United Kingdom,8.35
+1787,London,United Kingdom,9.53
+1788,London,United Kingdom,9.39
+1789,London,United Kingdom,9.12
+1790,London,United Kingdom,9.67
+1791,London,United Kingdom,9.59
+1792,London,United Kingdom,9.56
+1793,London,United Kingdom,9.59
+1794,London,United Kingdom,10.00
+1795,London,United Kingdom,9.19
+1796,London,United Kingdom,9.50
+1797,London,United Kingdom,9.62
+1798,London,United Kingdom,9.83
+1799,London,United Kingdom,7.94
+1800,London,United Kingdom,9.32
+1801,London,United Kingdom,9.68
+1802,London,United Kingdom,9.31
+1803,London,United Kingdom,8.79
+1804,London,United Kingdom,9.37
+1805,London,United Kingdom,8.56
+1806,London,United Kingdom,9.87
+1807,London,United Kingdom,9.03
+1808,London,United Kingdom,8.91
+1809,London,United Kingdom,8.99
+1810,London,United Kingdom,8.97
+1811,London,United Kingdom,10.10
+1812,London,United Kingdom,8.58
+1813,London,United Kingdom,9.13
+1814,London,United Kingdom,7.93
+1815,London,United Kingdom,8.99
+1816,London,United Kingdom,7.98
+1817,London,United Kingdom,8.95
+1818,London,United Kingdom,9.88
+1819,London,United Kingdom,9.58
+1820,London,United Kingdom,8.61
+1821,London,United Kingdom,9.63
+1822,London,United Kingdom,10.36
+1823,London,United Kingdom,8.80
+1824,London,United Kingdom,9.65
+1825,London,United Kingdom,9.98
+1826,London,United Kingdom,10.12
+1827,London,United Kingdom,9.37
+1828,London,United Kingdom,10.10
+1829,London,United Kingdom,7.95
+1830,London,United Kingdom,8.78
+1831,London,United Kingdom,10.01
+1832,London,United Kingdom,9.24
+1833,London,United Kingdom,9.40
+1834,London,United Kingdom,10.59
+1835,London,United Kingdom,9.48
+1836,London,United Kingdom,9.04
+1837,London,United Kingdom,8.85
+1838,London,United Kingdom,8.05
+1839,London,United Kingdom,8.89
+1840,London,United Kingdom,8.68
+1841,London,United Kingdom,9.12
+1842,London,United Kingdom,9.43
+1843,London,United Kingdom,9.40
+1844,London,United Kingdom,8.85
+1845,London,United Kingdom,8.46
+1846,London,United Kingdom,10.48
+1847,London,United Kingdom,9.24
+1848,London,United Kingdom,9.52
+1849,London,United Kingdom,9.42
+1850,London,United Kingdom,9.06
+1851,London,United Kingdom,9.17
+1852,London,United Kingdom,9.96
+1853,London,United Kingdom,8.44
+1854,London,United Kingdom,9.30
+1855,London,United Kingdom,8.03
+1856,London,United Kingdom,9.17
+1857,London,United Kingdom,10.21
+1858,London,United Kingdom,9.20
+1859,London,United Kingdom,9.97
+1860,London,United Kingdom,8.17
+1861,London,United Kingdom,9.42
+1862,London,United Kingdom,9.56
+1863,London,United Kingdom,9.90
+1864,London,United Kingdom,8.74
+1865,London,United Kingdom,9.82
+1866,London,United Kingdom,9.69
+1867,London,United Kingdom,9.06
+1868,London,United Kingdom,10.50
+1869,London,United Kingdom,9.46
+1870,London,United Kingdom,8.94
+1871,London,United Kingdom,8.97
+1872,London,United Kingdom,10.07
+1873,London,United Kingdom,9.26
+1874,London,United Kingdom,9.37
+1875,London,United Kingdom,9.43
+1876,London,United Kingdom,9.75
+1877,London,United Kingdom,9.43
+1878,London,United Kingdom,9.47
+1879,London,United Kingdom,7.62
+1880,London,United Kingdom,9.35
+1881,London,United Kingdom,8.71
+1882,London,United Kingdom,9.43
+1883,London,United Kingdom,9.21
+1884,London,United Kingdom,9.86
+1885,London,United Kingdom,8.68
+1886,London,United Kingdom,8.80
+1887,London,United Kingdom,8.39
+1888,London,United Kingdom,8.31
+1889,London,United Kingdom,8.91
+1890,London,United Kingdom,8.86
+1891,London,United Kingdom,8.65
+1892,London,United Kingdom,8.35
+1893,London,United Kingdom,10.05
+1894,London,United Kingdom,9.42
+1895,London,United Kingdom,8.91
+1896,London,United Kingdom,9.41
+1897,London,United Kingdom,9.50
+1898,London,United Kingdom,10.08
+1899,London,United Kingdom,9.85
+1900,London,United Kingdom,9.73
+1901,London,United Kingdom,9.20
+1902,London,United Kingdom,8.95
+1903,London,United Kingdom,9.45
+1904,London,United Kingdom,9.18
+1905,London,United Kingdom,9.25
+1906,London,United Kingdom,9.62
+1907,London,United Kingdom,9.03
+1908,London,United Kingdom,9.31
+1909,London,United Kingdom,8.70
+1910,London,United Kingdom,9.39
+1911,London,United Kingdom,10.22
+1912,London,United Kingdom,9.57
+1913,London,United Kingdom,9.89
+1914,London,United Kingdom,9.98
+1915,London,United Kingdom,9.07
+1916,London,United Kingdom,9.28
+1917,London,United Kingdom,8.65
+1918,London,United Kingdom,9.60
+1919,London,United Kingdom,8.48
+1920,London,United Kingdom,9.67
+1921,London,United Kingdom,10.60
+1922,London,United Kingdom,8.81
+1923,London,United Kingdom,9.17
+1924,London,United Kingdom,9.34
+1925,London,United Kingdom,9.31
+1926,London,United Kingdom,9.83
+1927,London,United Kingdom,9.25
+1928,London,United Kingdom,9.69
+1929,London,United Kingdom,9.09
+1930,London,United Kingdom,9.70
+1931,London,United Kingdom,9.12
+1932,London,United Kingdom,9.57
+1933,London,United Kingdom,9.96
+1934,London,United Kingdom,10.11
+1935,London,United Kingdom,9.90
+1936,London,United Kingdom,9.43
+1937,London,United Kingdom,9.69
+1938,London,United Kingdom,10.18
+1939,London,United Kingdom,9.77
+1940,London,United Kingdom,9.06
+1941,London,United Kingdom,9.09
+1942,London,United Kingdom,9.10
+1943,London,United Kingdom,10.19
+1944,London,United Kingdom,9.62
+1945,London,United Kingdom,10.39
+1946,London,United Kingdom,9.58
+1947,London,United Kingdom,9.75
+1948,London,United Kingdom,10.16
+1949,London,United Kingdom,10.63
+1950,London,United Kingdom,9.75
+1951,London,United Kingdom,9.52
+1952,London,United Kingdom,9.35
+1953,London,United Kingdom,9.95
+1954,London,United Kingdom,9.35
+1955,London,United Kingdom,9.39
+1956,London,United Kingdom,8.87
+1957,London,United Kingdom,10.26
+1958,London,United Kingdom,9.66
+1959,London,United Kingdom,10.63
+1960,London,United Kingdom,9.88
+1961,London,United Kingdom,10.20
+1962,London,United Kingdom,8.65
+1963,London,United Kingdom,8.48
+1964,London,United Kingdom,9.53
+1965,London,United Kingdom,9.03
+1966,London,United Kingdom,9.59
+1967,London,United Kingdom,9.81
+1968,London,United Kingdom,9.48
+1969,London,United Kingdom,9.47
+1970,London,United Kingdom,9.69
+1971,London,United Kingdom,9.89
+1972,London,United Kingdom,9.41
+1973,London,United Kingdom,9.75
+1974,London,United Kingdom,9.70
+1975,London,United Kingdom,9.99
+1976,London,United Kingdom,10.28
+1977,London,United Kingdom,9.69
+1978,London,United Kingdom,9.41
+1979,London,United Kingdom,9.06
+1980,London,United Kingdom,9.54
+1981,London,United Kingdom,9.38
+1982,London,United Kingdom,10.07
+1983,London,United Kingdom,10.12
+1984,London,United Kingdom,9.75
+1985,London,United Kingdom,9.00
+1986,London,United Kingdom,8.94
+1987,London,United Kingdom,9.22
+1988,London,United Kingdom,9.82
+1989,London,United Kingdom,10.76
+1990,London,United Kingdom,10.94
+1991,London,United Kingdom,9.67
+1992,London,United Kingdom,10.15
+1993,London,United Kingdom,9.69
+1994,London,United Kingdom,10.48
+1995,London,United Kingdom,10.55
+1996,London,United Kingdom,9.27
+1997,London,United Kingdom,10.64
+1998,London,United Kingdom,10.40
+1999,London,United Kingdom,10.86
+2000,London,United Kingdom,10.52
+2001,London,United Kingdom,10.18
+2002,London,United Kingdom,10.91
+2003,London,United Kingdom,10.81
+2004,London,United Kingdom,10.77
+2005,London,United Kingdom,10.63
+2006,London,United Kingdom,11.10
+2007,London,United Kingdom,10.83
+2008,London,United Kingdom,10.38
+2009,London,United Kingdom,10.52
+2010,London,United Kingdom,9.38
+2011,London,United Kingdom,11.19
+2012,London,United Kingdom,10.00
+2013,London,United Kingdom,9.91
