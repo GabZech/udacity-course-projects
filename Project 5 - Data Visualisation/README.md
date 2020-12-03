@@ -12,6 +12,8 @@ In this project I analysed Bay Wheels data for January 2020 downloaded from http
 
 ## Findings of the Exploratory Analysis
 
+See [exploratory_analysis.ipynb](exploratory_analysis.ipynb/) 
+
 Before exploring the dataset, I first assessed and cleaned it. This involved creating categories that separated the data into weekdays and weekends, into the specific days of the week, and converted the duration time of each ride into minutes and hours.
 
 The first step of the exploratory analysis was then to produce univariate analyses. Here I found out that:
@@ -27,6 +29,8 @@ The bivariate and multivariate analyses then followed producing the following fi
 - Customers tend to ride longer than Subscribers during the weekend
 
 ## Visual Presentation of Findings
+
+See [explanatory_analysis.ipynb](explanatory_analysis.ipynb/) 
 
 The explanatory analysis focused on using graphic visualisations to find out (1) when the bike rides are used the most and (2) getting insights about who could the biggest users of the platform be and why they used the platform.
 
