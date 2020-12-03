@@ -1,4 +1,4 @@
-# Udacity Project: Analysis of Lyft Bay Wheels Data
+# Analysis of Lyft Bay Wheels Data
 
 **by Gabriel**
 
@@ -8,7 +8,7 @@ Bay Wheels is a regional public bicycle sharing system in California's San Franc
 
 ## The Dataset
 
-In this project I will analyse Bay Wheels data for January 2020 downloaded from https://www.lyft.com/bikes/bay-wheels/system-data
+In this project I analysed Bay Wheels data for January 2020 downloaded from https://www.lyft.com/bikes/bay-wheels/system-data
 
 ## Findings of the Exploratory Analysis
 
@@ -19,7 +19,7 @@ The first step of the exploratory analysis was then to produce univariate analys
 - Bike tended to increase the closer it got to the end of the month
 - During weekdays: We can see here a bimodal distribution with peaks at 8h and 17h since that is the time people usually go to and leave work.
 - During weekends: we don't see this bimodal distribution since people are not working so we can see more of a normal distribution with the peak being after lunch
-- There are more Subscribers than Customers (user_type); app users tha clipper users (rental_access_method), weekday rides than weekend rides and the vast majority of bikes are delivered at a different station than they were picked up.
+- There are more Subscribers than Customers (user_type); app users than clipper users (rental_access_method), weekday rides than weekend rides and the vast majority of bikes are delivered at a different station than they were picked up.
 
 The bivariate and multivariate analyses then followed producing the following findings:
 - The numbers of bike rides tends to fall during weekends (with some exceptions)
@@ -38,6 +38,5 @@ The main insights were:
 ## Resources
 
 Dataset: https://www.lyft.com/bikes/bay-wheels/system-data.
-
 
 A number of https://stackoverflow.com/ posts were used to help with the coding.
